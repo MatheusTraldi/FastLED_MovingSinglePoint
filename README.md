@@ -1,5 +1,5 @@
 # FastLED_MovingSinglePoint
-A simple aplication of the FastLED library using the Arduino IDE
+A very simple aplication of the FastLED library using the Arduino IDE
 
 Instal the library at https://github.com/FastLED/FastLED
 
